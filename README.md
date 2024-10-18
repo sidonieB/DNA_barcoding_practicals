@@ -1,6 +1,6 @@
 # DNA_barcoding_practicals  
 
-This directory contains fasta sequences to be queried against public DNA barcodes databases such as:  
+This directory contains three *.txt files, each with one DNA sequence to be queried against public DNA barcodes databases such as:  
 
 The core nucleotide database of the National Center for Biotechnology Information (NCBI): https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome  
 or  
